@@ -4,7 +4,7 @@
 
 ```bash
 docker run --rm -it -v $PWD:/documents asciidoctor/docker-asciidoctor \
-    asciidoctor-revealjs presentation.adoc
+    asciidoctor-revealjs presentation.adoc -o index.html
 ```
 
 ## See result
