@@ -2,6 +2,7 @@
 :revealjsdir: ./reveal.js
 :revealjs_slideNumber: true
 :revealjs_theme: custom
+:revealjs_history: true
 :source-highlighter: highlightjs
 :highlightjs-theme: https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/github.css
 :imagesdir: ./images
