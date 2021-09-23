@@ -1,12 +1,30 @@
 = Presentation
 :revealjsdir: ./reveal.js
+:revealjs_slideNumber: true
+:revealjs_theme: custom
 :source-highlighter: highlightjs
+:highlightjs-theme: https://cdn.jsdelivr.net/npm/highlightjs-themes@1.0.0/github.css
 :imagesdir: ./images
 :docinfo: private
 
 == !
 
-image::color_logo.png[size=contain]
+image::color_logo.png[]
+
+[.columns]
+== Learning Target
+
+[.column]
+image::learning-objectives.svg[]
+
+
+[.column]
+* Here is an svg
+
+. cool
+. bullet
+
+* points
 
 == Code
 
@@ -22,3 +40,7 @@ print("Hello World")
 echo hello
 echo hello there
 ----
+
+== Video
+
+video::7SDwWFYnhGA[youtube]
