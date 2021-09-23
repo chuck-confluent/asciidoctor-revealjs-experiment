@@ -1,0 +1,24 @@
+= Presentation
+:revealjsdir: ./reveal.js
+:source-highlighter: highlightjs
+:imagesdir: ./images
+:docinfo: private
+
+== !
+
+image::color_logo.png[size=contain]
+
+== Code
+
+[source,python]
+----
+print("Hello World")
+----
+
+=== More Code
+
+[source,bash,linenums]
+----
+echo hello
+echo hello there
+----
