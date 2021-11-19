@@ -9,7 +9,9 @@ docker run --rm -it -v $PWD:/documents asciidoctor/docker-asciidoctor \
 
 ## See result
 
-Clone this repo and open presentation.html in a browser.
+Check out this example: https://github.com/chuck-confluent/asciidoctor-revealjs-experiment/deployments/activity_log?environment=github-pages
+
+You can also clone this repo and open presentation.html in a browser.
 
 Notice it has a confluent branded theme, code highlighting, a copy button, and a navigation menu.
 
