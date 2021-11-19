@@ -9,7 +9,7 @@ docker run --rm -it -v $PWD:/documents asciidoctor/docker-asciidoctor \
 
 ## See result
 
-Check out this example: https://github.com/chuck-confluent/asciidoctor-revealjs-experiment/deployments/activity_log?environment=github-pages
+Check out this example: https://chuck-confluent.github.io/asciidoctor-revealjs-experiment/#/
 
 You can also clone this repo and open presentation.html in a browser.
 
